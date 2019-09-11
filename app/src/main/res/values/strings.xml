@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Exploring Layouts</string>
+    <string name="introduction">Select a layout type to view an example. The onClick attribute of each button will call a method which executes setContentView to load a new layout.</string>
+    <string name="load_constraint">Load Constraint Layout</string>
+    <string name="load_btn">LOAD</string>
+    <string name="load_table">Load Table Layout</string>
+    <string name="back_main">Back to Main Menu</string>
+</resources>
